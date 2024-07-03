@@ -6,3 +6,4 @@ __pycache__
 *.pyc
 gguf_models/*
 NOTE.md
+env.py
